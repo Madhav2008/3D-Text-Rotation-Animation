@@ -23,4 +23,6 @@ body {
     transform-style: preserve-3d;
 }
 
-.box div {position: absolute;}
+.box div {
+    position: absolute;
+}
