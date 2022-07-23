@@ -34,5 +34,5 @@ body {
     position: absolute;
     inset: 0;
     background: #ff01;
-    transform: rotateX(calc(var(--i) *15deg));
+    transform: rotateX(calc(var(--i) * 15deg));
 }
