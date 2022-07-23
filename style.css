@@ -51,4 +51,6 @@ body {
     text-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
 }
 
-.box div span::before {color: #f00;}
+.box div span::before {
+    color: #f00;
+}
