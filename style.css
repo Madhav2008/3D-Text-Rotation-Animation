@@ -39,5 +39,5 @@ body {
 
 .box div span::before {
     content: 'Madhav';
-    position: absolute;
+    position: absolute;width: ;
 }
