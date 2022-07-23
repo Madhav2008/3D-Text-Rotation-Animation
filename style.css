@@ -49,4 +49,6 @@ body {
     font-weight: 800;
     -webkit-text-stroke: 2px #000;
     text-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
-}.box div span::before
+}
+
+.box div span::before
