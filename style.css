@@ -51,6 +51,6 @@ body {
     text-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
 }
 
-.box div span:nth-child():before {
+.box div span:nth-child(3n+2):before {
     color: #f00;
 }
