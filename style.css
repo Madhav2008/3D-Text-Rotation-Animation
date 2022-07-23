@@ -40,5 +40,5 @@ body {
 .box div span::before {
     content: 'Madhav';
     position: absolute;
-    width: 100%;
+    width: 100%;text-align: ;
 }
