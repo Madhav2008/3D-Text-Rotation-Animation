@@ -35,4 +35,6 @@ body {
     inset: 0;
     background: #ff01;
     transform: rotateX(calc(var(--i) * 15deg));
-}.box div span
+}
+
+.box div span
