@@ -30,4 +30,4 @@ body {
     transform-style: preserve-3d;
 }
 
-.box div span {position: ;}
+.box div span {position: absolute;}
