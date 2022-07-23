@@ -33,5 +33,6 @@ body {
 .box div span {
     position: absolute;
     inset: 0;
-    background: #ff01;transform: ;
+    background: #ff01;
+    transform: ;
 }
