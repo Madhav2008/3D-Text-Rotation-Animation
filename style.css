@@ -37,4 +37,4 @@ body {
     transform: rotateX(calc(var(--i) * 15deg));
 }
 
-.box div span
+.box div span::
