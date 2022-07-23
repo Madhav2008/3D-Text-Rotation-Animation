@@ -16,4 +16,6 @@ body {
     overflow: hidden;
 }
 
-.box {position: relative;}
+.box {
+    position: relative;
+}
