@@ -61,6 +61,6 @@ body {
 
 @keyframes animate {
     0% {
-        transform: perspective(10);
+        transform: perspective(1000px);
     }
 }
