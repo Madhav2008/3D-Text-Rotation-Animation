@@ -51,7 +51,7 @@ body {
 }
 
 .box div span:nth-child(3n+2):before {
-    color: #e3f2fd;
+    color: #e3f2fddd;
 }
 
 .box div span:nth-child(3n+3):before {
