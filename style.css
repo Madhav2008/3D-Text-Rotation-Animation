@@ -59,4 +59,6 @@ body {
     color: #fce4ecdd;
 }
 
-@keyframes animate {0%}
+@keyframes animate {
+    0%
+}
