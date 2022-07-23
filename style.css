@@ -31,5 +31,6 @@ body {
 }
 
 .box div span {
-    position: absolute;inset: 0;
+    position: absolute;
+    inset: 0;
 }
